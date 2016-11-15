@@ -1,2 +1,2 @@
-FROM hello-world
+FROM ubuntu:latest
 MAINTAINER jdoe
